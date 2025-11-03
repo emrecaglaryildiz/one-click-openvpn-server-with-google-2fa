@@ -1,7 +1,7 @@
  OpenVPN + EasyRSA + Google Authenticator "All-in-One" Manager
- Author: Emre Caglar YILDIZ
- Tested on: Ubuntu/Debian family
- Modes: Install | Add User | Delete User | Uninstall
++ Author: Emre Caglar YILDIZ
++ Tested on: Ubuntu/Debian family
++ Modes: Install | Add User | Delete User | Uninstall
  Features:
   - Asks Public IP, Port, and NAT Interface on install
   - EasyRSA PKI bootstrap (CA, server cert, DH)
